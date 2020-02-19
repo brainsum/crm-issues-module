@@ -1,5 +1,5 @@
 {
-  "name": "remp/crm-issues-module",
+  "name": "brainsum/crm-issues-module",
   "description": "CRM Issues Module",
   "type": "library",
   "homepage": "https://remp2020.com",
@@ -10,7 +10,7 @@
     "remp/crm-admin-module": "~0.4 >=0.4.2",
     "remp/crm-api-module": "~0.4 >=0.4.2",
     "remp/crm-application-module": "~0.4 >=0.4.2",
-    "remp/crm-subscriptions-module": "~0.4 >=0.4.2",
+    "brainsum/crm-subscriptions-module": "~0.4 >=0.4.2",
     "remp/crm-users-module": "~0.4 >=0.4.2"
   },
   "minimum-stability": "dev",
